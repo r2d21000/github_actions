@@ -18,7 +18,7 @@ jobs:
 
       - name: echo a string
 
-        run: echo "Hello world"
+        run: echo "Hello world pure git is awful"
 
       - name: multiline script
 
