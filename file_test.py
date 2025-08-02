@@ -1,4 +1,7 @@
 import pytest
+"""
+this is a test file to test the automatic code check with actions
+"""
 
 
 def test_calc_addition(): 
